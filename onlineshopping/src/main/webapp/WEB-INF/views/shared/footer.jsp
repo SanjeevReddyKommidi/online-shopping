@@ -1,6 +1,6 @@
 
-<footer class="py-2 bg-dark fixed-bottom">
+<footer class="navbar navbar-inverse bg-dark navbar-fixed-bottom">
     <div class="container">
-      <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
+      <p class="text-center text-white" style="color:white">Copyright &copy; Your Website 2017</p>
     </div>
 </footer>
